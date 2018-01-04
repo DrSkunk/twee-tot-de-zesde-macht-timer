@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import PropTypes from 'prop-types';
 import Sound from 'react-sound';
 import TimerDisplay from './components/TimerDisplay';
 import './App.css';
